@@ -1,0 +1,17 @@
+p
+{
+    color: lightseagreen;
+}
+
+.header-background
+{
+    background-color: grey;
+    color: lightskyblue;
+    text-decoration: underline;
+}
+
+#bigger-font
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 32px;
+}
